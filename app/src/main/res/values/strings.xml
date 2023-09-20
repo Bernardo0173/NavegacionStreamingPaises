@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NavegacionStreaming</string>
+
+    <string-array name="arrTipo">
+        <item>Netflix</item>
+        <item>Amazon</item>
+        <item>HBO</item>
+    </string-array>
+
+</resources>
